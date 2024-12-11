@@ -1,7 +1,8 @@
-# The ultimate directory for Best Bluesky Tools
+# Bluesky tools directory
 
-[Start Now](https://bestsky.tools)
+> [!CAUTION]
+> 🚧 Work in process...
 
-[Bluesky](https://bsky.app/profile/bestsky.tools)
+## Project Structure
 
-## See also
+BestskyTools is a Next.js application using the App Router architecture
